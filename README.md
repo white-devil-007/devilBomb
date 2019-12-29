@@ -7,4 +7,5 @@ cd Desktop<br>
 git clone https://github.com/white-devil-007/devilBomb.git<br>
 cd devilBomb<br>
 pip install -r requirements.txt<br>
+chmod +x devilBomb.sh<br>
 ./devilBomb.sh
